@@ -24,11 +24,12 @@ This section starts with a brief introduction about my background, current year 
 
 
 ## Technologies Used
-###Languages
+<b>Languages</b>
 - HTML
 - CSS
-- JavaScript
-###External Libraries and Resources
+- JavaScript<br>
+
+<b>External Libraries and Resources</b>
 - font awesome : for icons
 - google fonts
-- swiper.js
+- swiper.js<br>
