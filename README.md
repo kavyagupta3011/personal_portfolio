@@ -41,3 +41,11 @@ To run this project locally:<br>
 
 2. Navigate to the project directory<br>
 'cd your-repo-name'
+
+3. Open index.html on your browser.
+
+## Deployed Website
+
+This project has been deployed on GitHub Pages. It can be viewed here:
+[Personal Portfolio Website](https://kavyagupta3011.github.io/personal_portfolio/)
+
