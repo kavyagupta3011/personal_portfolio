@@ -33,3 +33,11 @@ This section starts with a brief introduction about my background, current year 
 - font awesome : for icons
 - google fonts
 - swiper.js<br>
+
+## Installation and Setup
+To run this project locally:<br>
+1. Clone the repository:<br>
+'git clone https://github.com/yourusername/your-repo-name.git'
+
+2. Navigate to the project directory<br>
+'cd your-repo-name'
