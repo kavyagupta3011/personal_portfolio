@@ -24,6 +24,11 @@ This section starts with a brief introduction about my background, current year 
 
 
 ## Technologies Used
+###Languages
 - HTML
 - CSS
 - JavaScript
+###External Libraries and Resources
+- font awesome : for icons
+- google fonts
+- swiper.js
