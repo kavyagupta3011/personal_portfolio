@@ -37,10 +37,14 @@ This section starts with a brief introduction about my background, current year 
 ## Installation and Setup
 To run this project locally:<br>
 1. Clone the repository:<br>
-'git clone https://github.com/yourusername/your-repo-name.git'
+ ```sh
+    git clone https://github.com/yourusername/your-repo-name.git
+    ```
 
 2. Navigate to the project directory<br>
-'cd your-repo-name'
+ ```sh
+    cd your-repo-name
+    ```
 
 3. Open index.html on your browser.
 
