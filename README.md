@@ -35,17 +35,15 @@ This section starts with a brief introduction about my background, current year 
 - swiper.js<br>
 
 ## Installation and Setup
-To run this project locally:<br>
-1. Clone the repository:<br>
- ```sh
+To run the code locally:
+1. Clone the repository to your local machine:
+    ```
     git clone https://github.com/yourusername/your-repo-name.git
     ```
-
-2. Navigate to the project directory<br>
- ```sh
+2. Navigate to the project directory:
+    ```
     cd your-repo-name
     ```
-
 3. Open index.html on your browser.
 
 ## Deployed Website
