@@ -54,3 +54,7 @@ To run the code locally:
 This project has been deployed on GitHub Pages. It can be viewed here:
 [Personal Portfolio Website](https://kavyagupta3011.github.io/personal_portfolio/)
 
+## Improvements
+
+I am currently working on the backend.
+
